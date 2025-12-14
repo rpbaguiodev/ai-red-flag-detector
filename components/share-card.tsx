@@ -56,6 +56,9 @@ export function ShareCard({ score, label, explanation }: ShareCardProps) {
           Screenshot, post, and tag a friend who needs the wake-up call.
         </p>
         <p className="text-[11px] text-white/60">
+          https://ai-red-flag-detector.vercel.app
+        </p>
+        <p className="text-[11px] text-white/60">
           #AIRedFlagDetector • @CodeWithMerk
         </p>
       </div>
